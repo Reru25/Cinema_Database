@@ -1,1 +1,1 @@
-"# Cinema database for 'studi'." 
+" Cinema database for 'studi'." 
